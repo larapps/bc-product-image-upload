@@ -1,0 +1,7 @@
+/images/
+/images-uploaded/
+/logs/
+error.log
+*.txt
+*.xlsx
+/node_modules/
